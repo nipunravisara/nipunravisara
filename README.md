@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Frontend Developer/UI/UX Designer based in Colombo, Sri Lanka who begins the journey as a freelance designer nearly 3 years ago and inspired by the community, Most of the time I used to design and build digital products, UIs while maintaining good and clean codebase. Mainly passionate about mobile development and working on improving my experience as a mobile developer.
+A Full-Stack Developer based in Colombo, Sri Lanka who begins the journey as a freelance designer nearly 3 years ago and inspired by the community, Most of the time I used to design and build digital products, UIs while maintaining good and clean codebase. Additionaly passionate about mobile development and working on improving my experience as a full-stack developer.
 
 <p align='center'>
   <a href="https://twitter.com/ravisaradev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
